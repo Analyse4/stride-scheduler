@@ -1,5 +1,5 @@
 # stride-scheduler
-It's a program simulating stride scheduling for generating a chart. The chart describe the relationship about job length and unfairness metric.
+It's a program simulating stride scheduling for generating a chart. The chart describe the relationship about job length and unfairness metric(which is simply the time the first job completes divided by the time that the second job completes).
 ## Condition
 
 - two jobs
