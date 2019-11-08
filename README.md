@@ -8,4 +8,4 @@ It's a program simulating stride scheduling for generating a chart. The chart de
 - job length from 1 to 1000
 - each time slice can do a unit of work
 ## Chart
-[](https://github.com/Analyse4/stride-scheduler/blob/master/chart.png)
+![chart](https://github.com/Analyse4/stride-scheduler/blob/master/chart.png)
